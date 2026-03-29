@@ -12,7 +12,7 @@ const DumagueteSafety = () => {
         <div className="nav-container">
           <div className="brand">
             <div className="logo-icon">
-              <span className="material-symbols-outlined">Kian Requina</span>
+              <span className="material-symbols-outlined">Kian T Requina </span>
             </div>
             <span className="logo-text">DGT<span className="bold">SAFE</span></span>
           </div>
